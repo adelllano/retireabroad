@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel='stylesheet' href='style.css'>
+	<link rel="stylesheet" href="https://use.typekit.net/zbk2vzi.css">
+
+</head>
+<body>
+
+<!-- This is the navabar -->
+	<header role="banner">
+	  <nav class="anchor-nav" role="navigation">
+	    <a href="#intro" id="intro-anchor">HOME</a>
+			  <span class="navigationSpace"/>
+      <a href="#section-7" id="anchor7">INTRO</a>
+          <span class="navigationSpace"/>
+      <a href="#section-6" id="anchor6">COST OF LIVING</a>
+          <span class="navigationSpace"/>
+      <a href="#section-1" id="anchor1">HEALTHCARE</a>
+			  <span class="navigationSpace"/>
+	    <a href="#section-2" id="anchor2">CRIME</a>
+			  <span class="navigationSpace"/>
+			<a href="#section-3" id="anchor3">LIFE EXPECTANCY</a>
+			  <span class="navigationSpace"/>
+			<a href="#section-4" id="anchor4">DATA BY COUNTRY</a>
+	  </nav>
+	</header>
+
+	<main class="full-screen" id="intro" role="main">
+
+<!-- This is the landing section -->
+		<section class="full-screen green" id="start">
+			<img src="img/header9.gif" alt="header">
+	  </section>
+
+
+<!-- This is the Intro section -->
+    <section class="full-screen white" id="section-7">
+        <div id="introText">
+        <!-- <h1>What's most important to you when considering a retirement destination?</h1> -->
+        <p>I took a look at <b>12 of the most popular overseas retirement desitnations</b> to find out what makes them so popular.
+        Cost of living is one of the top contributors to choosing a location overseas but what type of costs can you really expect, when compared to the United States.
+        So what's most important to you when considering a retirement destination? (Choose a topic below or scroll down to view them all)
+      </p>
+        <!-- <img src="img/intro.png" alt="placeholder"> -->
+      </div>
+    </section>
+
+
+<!-- This is Cost of Living -->
+    <section class="full-screen green" id="section-6">
+      <div class= 'inner'>
+        <div id= 'Col'>
+          <h1>COST OF LIVING</h1>
+          <p>These indices are relative to New York City (NYC). Which means that for New York City, each index should be 100(%). If another city has, for example, rent index of 120, it means that on an average in that city rents are 20% more expensive than in New York City. If a city has rent index of 70, that means on an average in that city rents are 30% less expensive than in New York City.
+
+Cost of Living Index (Excl. Rent) is a relative indicator of consumer goods prices, including groceries, restaurants, transportation and utilities. Cost of Living Index doesn't include accommodation expenses such as rent or mortgage. If a city has a Cost of Living Index of 120, it means Numbeo estimates it is 20% more expensive than New York (excluding rent).
+
+</p>
+<!-- Rent Index is an estimation of prices of renting apartments in the city compared to New York City. If Rent index is 80, Numbeo estimates that price of rents in that city is on an average 20% less than the price in New York. -->
+          <input type='button' id='b1' value='Index' />
+          <input type='button' id='b2' value='Eating Out' />
+          <input type='button' id='b3' value='Groceries' />
+          <input type='button' id='b4' value='Utilities' />
+          <div id="chart-div" style= "width: 800px; height: 400px;"></div>
+        </div>
+    </div>
+    </section>
+
+
+<!-- This is the Healthcare section-->
+	  <section class="full-screen white" id="section-1">
+
+	    <div id='healthcaretext'>
+        <h1>HEALTHCARE</h1>
+          <p>This section is based on surveys from visitors of this website. Questions for these surveys are similar to many similar scientific and government surveys.
+
+Each entry in the survey is saved as the number in the range [-2, +2], with -2 having meaning of strongly negative and +2 meaning of strongly positive.
+
+We filter surveys to eliminate potential spam, like people entering a large amount of data which are differentiating from the median value.
+
+To present survey result, we use the scale [0, 100] for values since it is easier to read for users.
+
+To generate a current index (which is always updated) we use data up to 36 months old. We include only cities for which there are at least a certain number of contributors. Our semiannual index is remade twice per year by pushing current index into this historical view.
+
+Health Care Index is an estimation of the overall quality of the health care system, health care professionals, equipment, staff, doctors, cost, etc.</p>
+	    </div>
+        <div id= 'top_x_div' style="width: 800px; height: 300px; padding-right: 40px;"></div>
+
+
+	  </section>
+
+
+<!-- This is the Crime section -->
+	  <section class="full-screen green" id="section-2">
+      <div class= 'inner'>
+          <div id='crimetext'>
+            <h1>CRIME</h1>
+            <p>This section is based on surveys from visitors of this website. Questions for these surveys are similar to many similar scientific and government surveys.
+
+Each entry in the survey is saved as the number in the range [-2, +2], with -2 having meaning of strongly negative and +2 meaning of strongly positive.
+
+We filter surveys to eliminate potential spam, like people entering a large amount of data which are differentiating from the median value.
+
+To present survey result, we use the scale [0, 100] for values since it is easier to read for users.
+
+To generate a current index (which is always updated) we use data up to 36 months old. We include only cities for which there are at least a certain number of contributors. Our semiannual index is remade twice per year by pushing current index into this historical view.
+</p>
+
+<!--
+Crime Index is an estimation of overall level of crime in a given city or a country. We consider crime levels lower than 20 as very low, crime levels between 20 and 40 as being low, crime levels between 40 and 60 as being moderate, crime levels between 60 and 80 as being high and finally crime levels higher than 80 as being very high.
+Is this much less accurate than governmental statistics? In some countries, governments have a detailed statistics based on a number of reported crimes per capita. Those surveys are particular good in comparing crime between two cities in that country, but are not so good in cross country comparison for the following reasons:
+
+people in some countries are much more likely to report a crime than in other countries
+data could be forged by governmental institutions
+data are not available for most of the world -->
+          </div>
+
+          <div class="crimepics">
+              <div id="crpics1">
+              <img src="img/crime-Belize.svg" alt="chart11">
+              <img src="img/crime-Colombia.svg" alt="chart2">
+              <img src="img/crime-Costa Rica.svg" alt="chart3">
+              <img src="img/crime-Dominican Republic.svg" alt="chart4">
+              </div>
+              <div id="crpics2">
+              <img src="img/crime-Ecuador.svg" alt="chart5">
+              <img src="img/crime-Malaysia.svg" alt="chart6">
+              <img src="img/crime-Malta.svg" alt="chart7">
+              <img src="img/crime-Mexico.svg" alt="chart8">
+              </div>
+              <div id="crpics3">
+              <img src="img/crime-Panama.svg" alt="chart9">
+              <img src="img/crime-Portugal.svg" alt="chart10">
+              <img src="img/crime-Spain.svg" alt="chart11">
+              <img src="img/crime-Thailand.svg" alt="chart12">
+              </div>
+          </div>
+         </div>
+	  </section>
+
+
+<!-- This is the Climate section -->
+	  <!-- <section class="full-screen white" id="section-3">
+
+	      <h1>CLIMATE</h1>
+        <div id="visualization"></div>
+
+	  </section> -->
+
+
+<!-- This is the Life Expectancy section -->
+		<section class="full-screen white" id="section-3">
+      <!-- <div class= 'inner'> -->
+      <div id= 'lifetext'>
+        <h1>LIFE EXPECTANCY</h1>
+      <!-- <img src="img/chart.png" alt="placeholder"> -->
+      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+      </div>
+        <div id='lifechart'>
+  <div id= 'life_div' style="width: 600px; height: 400px;"></div>
+      </div>
+      <!-- </div> -->
+	  </section>
+
+
+<!-- This is the Data by Country section -->
+		<section class="full-screen green" id="section-4">
+      <div class= 'inner'>
+        <div id='countryheader'>
+        <h1>DATA BY COUNTRY</h1>
+        </div>
+
+<div id='countrypics'>
+
+          <div class="box">
+          <div id="pics1">
+          <a href="#popup1">
+        <img src="img/map_Belize.svg">
+          </a>
+          <a href="#popup2">
+        <img src="img/map_Colombia.svg">
+          </a>
+          <a href="#popup3">
+        <img src="img/map_Costa Rica.svg">
+          </a>
+          <a href="#popup4">
+        <img src="img/map_Dominican Republic.svg">
+          </a>
+          <a href="#popup5">
+        <img src="img/map_Ecuador.svg">
+          </a>
+          <a href="#popup6">
+        <img src="img/map_Malaysia.svg">
+          </a>
+        </div>
+
+        <div id="pics2">
+          <a href="#popup7">
+        <img src="img/map_Malta.svg">
+         </a>
+         <a href="#popup8">
+        <img src="img/map_Mexico.svg">
+         </a>
+          <a href="#popup9">
+        <img src="img/map_Panama.svg">
+          </a>
+          <a href="#popup10">
+        <img src="img/map_Portugal.svg">
+          </a>
+          <a href="#popup11">
+        <img src="img/map_Spain.svg">
+          </a>
+          <a href="#popup12">
+        <img src="img/map_Thailand.svg">
+          </a>
+        </div>
+          </div>
+
+
+
+          <div id="popup1" class="overlay">
+            <div class="popup">
+              <h2>Belize</h2>
+              <a class="close" href="#countryheader">&times;</a>
+              <div class="content">
+                <img src="img/factsheet_Belize.svg">
+              </div>
+            </div>
+          </div>
+
+
+
+          <div id="popup2" class="overlay">
+            <div class="popup">
+              <h2>Colombia</h2>
+              <a class="close" href="#countryheader">&times;</a>
+              <div class="content">
+                <img src="img/factsheet_Colombia.svg">
+              </div>
+            </div>
+          </div>
+
+
+          <div id="popup3" class="overlay">
+            <div class="popup">
+              <h2>Costa Rica</h2>
+              <a class="close" href="#countryheader">&times;</a>
+              <div class="content">
+                <img src="img/factsheet_Costa Rica.svg">
+              </div>
+            </div>
+          </div>
+
+
+          <div id="popup4" class="overlay">
+            <div class="popup">
+              <h2>Dominican Republic</h2>
+              <a class="close" href="#countryheader">&times;</a>
+              <div class="content">
+                <img src="img/factsheet_Dominican Republic.svg">
+              </div>
+            </div>
+          </div>
+
+
+          <div id="popup5" class="overlay">
+            <div class="popup">
+              <h2>Ecuador</h2>
+              <a class="close" href="#countryheader">&times;</a>
+              <div class="content">
+                <img src="img/factsheet_Ecuador.svg">
+              </div>
+            </div>
+          </div>
+
+
+
+          <div id="popup6" class="overlay">
+            <div class="popup">
+              <h2>Malaysia</h2>
+              <a class="close" href="#countryheader">&times;</a>
+              <div class="content">
+                <img src="img/factsheet_Malaysia.svg">
+              </div>
+            </div>
+          </div>
+
+
+          <div id="popup7" class="overlay">
+            <div class="popup">
+              <h2>Malta</h2>
+              <a class="close" href="#countryheader">&times;</a>
+              <div class="content">
+                <img src="img/factsheet_Malta.svg">
+              </div>
+            </div>
+          </div>
+
+
+          <div id="popup8" class="overlay">
+            <div class="popup">
+              <h2>Mexico</h2>
+              <a class="close" href="#countryheader">&times;</a>
+              <div class="content">
+                <img src="img/factsheet_Mexico.svg">
+              </div>
+            </div>
+          </div>
+
+
+          <div id="popup9" class="overlay">
+            <div class="popup">
+              <h2>Panama</h2>
+              <a class="close" href="#countryheader">&times;</a>
+              <div class="content">
+                <img src="img/factsheet_Panama.svg">
+              </div>
+            </div>
+          </div>
+
+
+          <div id="popup10" class="overlay">
+            <div class="popup">
+              <h2>Portugal</h2>
+              <a class="close" href="#countryheader">&times;</a>
+              <div class="content">
+                <img src="img/factsheet_Portugal.svg">
+              </div>
+            </div>
+          </div>
+
+
+          <div id="popup11" class="overlay">
+            <div class="popup">
+              <h2>Spain</h2>
+              <a class="close" href="#countryheader">&times;</a>
+              <div class="content">
+                <img src="img/factsheet_Spain.svg">
+              </div>
+            </div>
+          </div>
+
+
+          <div id="popup12" class="overlay">
+            <div class="popup">
+              <h2>Thailand</h2>
+              <a class="close" href="#countryheader">&times;</a>
+              <div class="content">
+                <img src="img/factsheet_Thailand.svg">
+              </div>
+            </div>
+          </div>
+</div>
+
+
+	  </section>
+
+	</main>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.6/ScrollMagic.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.6/plugins/debug.addIndicators.min.js"></script>
+  <script src="https://www.gstatic.com/charts/loader.js"></script>
+  <!-- <script type="text/javascript">
+  google.charts.load('current', {packages: ['corechart']});
+  google.charts.setOnLoadCallback(drawChart);
+  </script> -->
+
+	<script src="js/jquery.min.js"></script>
+	<script src="js/script.js"></script>
+</body>
+</html>

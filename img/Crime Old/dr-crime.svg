@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 195.1 270.3" style="enable-background:new 0 0 195.1 270.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E2286F;}
+	.st1{fill:#69C9CE;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:none;stroke:#9A9B9B;stroke-miterlimit:10;}
+	.st4{fill:#EAE8E8;}
+	.st5{fill:#EE3569;}
+	.st6{fill:url(#SVGID_1_);}
+	.st7{fill:none;stroke:#4F4E4E;stroke-width:0.5;stroke-miterlimit:10;}
+	.st8{fill:none;}
+	.st9{fill:#666766;}
+	.st10{font-family:'Almaq-Refined';}
+	.st11{font-size:29.7339px;}
+	.st12{font-family:'Arial-BoldMT';}
+	.st13{font-size:17.4905px;}
+	.st14{fill:#F5CF56;}
+	.st15{fill:#6FC59B;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="CRIME">
+	<circle class="st3" cx="100.2" cy="103.7" r="75.8"/>
+	<g>
+		<rect x="36" y="200.2" class="st8" width="128.6" height="65"/>
+		<text transform="matrix(1 0 0 1 39.8474 220.0455)"><tspan x="0" y="0" class="st9 st10 st11">Dominican</tspan><tspan x="11" y="35.7" class="st9 st10 st11">Republic</tspan></text>
+	</g>
+	<path class="st5" d="M146.5,157c-12.4,10.8-28.6,17.4-46.3,17.4c-38.9,0-70.6-31.7-70.6-70.6c0-38.9,31.7-70.6,70.6-70.6V22.6
+		c-44.7,0-81.1,36.4-81.1,81.1c0,44.7,36.4,81.1,81.1,81.1c20.3,0,38.9-7.5,53.2-19.9L146.5,157z"/>
+	<circle class="st4" cx="100.1" cy="101.6" r="47.8"/>
+	<rect x="37.4" y="96.8" class="st8" width="125.5" height="23.7"/>
+	<text transform="matrix(1 0 0 1 80.7508 109.3477)" class="st0 st12 st13">High</text>
+</g>
+<g id="SAFETY">
+</g>
+</svg>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 195.1 270.3" style="enable-background:new 0 0 195.1 270.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E2286F;}
+	.st1{fill:#69C9CE;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:none;stroke:#9A9B9B;stroke-miterlimit:10;}
+	.st4{fill:#EAE8E8;}
+	.st5{fill:#EE3569;}
+	.st6{fill:url(#SVGID_1_);}
+	.st7{fill:none;stroke:#4F4E4E;stroke-width:0.5;stroke-miterlimit:10;}
+	.st8{fill:#F5CF56;}
+	.st9{fill:#6FC59B;}
+	.st10{fill:none;}
+	.st11{font-family:'Arial-BoldMT';}
+	.st12{font-size:17.4905px;}
+	.st13{fill:#818281;}
+	.st14{font-family:'ArialMT';}
+	.st15{font-size:25px;}
+	.st16{fill:#2A2A84;}
+	.st17{fill:#F7A296;}
+	.st18{fill:#6177BA;}
+	.st19{fill:#E43A62;}
+	.st20{fill:#89CCA3;}
+	.st21{fill:#EB2288;}
+	.st22{fill:#424242;}
+	.st23{fill:#78D0EA;}
+	.st24{fill:#FBEB5D;}
+	.st25{fill:#203A6D;}
+	.st26{fill:#3A9EB5;}
+	.st27{fill:#F2E356;}
+	.st28{fill:#F9A35E;}
+	.st29{fill:#E14F28;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="CRIME">
+	<circle class="st3" cx="99.7" cy="109.4" r="75.8"/>
+	<path class="st5" d="M99.7,180.8c-39.4,0-71.5-32.1-71.5-71.5c0-39.2,31.8-71.2,70.9-71.5v-8.7c-44,0.3-79.7,36.2-79.7,80.2
+		c0,44.2,36,80.2,80.2,80.2c18,0,34.6-6,48-16l-5.3-7C130.6,175.5,115.8,180.8,99.7,180.8z"/>
+	<circle class="st4" cx="99.1" cy="109" r="47.8"/>
+	<rect x="36.4" y="104.3" class="st10" width="125.5" height="23.7"/>
+	<text transform="matrix(1 0 0 1 79.7541 116.8157)" class="st0 st11 st12">High</text>
+	<g>
+		<rect x="34.9" y="203.1" class="st10" width="128.6" height="38.1"/>
+		<text transform="matrix(1 0 0 1 49.8606 220.9964)" class="st13 st14 st15">Malaysia</text>
+	</g>
+</g>
+<g id="SAFETY">
+</g>
+</svg>

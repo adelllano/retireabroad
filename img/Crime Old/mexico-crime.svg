@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 195.1 270.3" style="enable-background:new 0 0 195.1 270.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E2286F;}
+	.st1{fill:#69C9CE;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:none;stroke:#9A9B9B;stroke-miterlimit:10;}
+	.st4{fill:#EAE8E8;}
+	.st5{fill:#EE3569;}
+	.st6{fill:url(#SVGID_1_);}
+	.st7{fill:none;stroke:#4F4E4E;stroke-width:0.5;stroke-miterlimit:10;}
+	.st8{fill:#F5CF56;}
+	.st9{fill:#6FC59B;}
+	.st10{fill:none;}
+	.st11{fill:#666766;}
+	.st12{font-family:'Almaq-Refined';}
+	.st13{font-size:29.7339px;}
+	.st14{fill:#BB902F;}
+	.st15{font-family:'Arial-BoldMT';}
+	.st16{font-size:17.4905px;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="CRIME">
+	<circle class="st3" cx="99.3" cy="110.8" r="75.8"/>
+	<rect x="35.2" y="204.3" class="st10" width="128.6" height="38.1"/>
+	<text transform="matrix(1 0 0 1 59.3178 224.1489)" class="st11 st12 st13">Mexico</text>
+	<path class="st8" d="M99.3,182.3c-39.4,0-71.5-32.1-71.5-71.5c0-39.4,32.1-71.5,71.5-71.5v-8.7c-44.2,0-80.2,36-80.2,80.2
+		c0,44.2,36,80.2,80.2,80.2c4.3,0,8.5-0.3,12.6-1l-1.4-8.6C106.9,182,103.2,182.3,99.3,182.3z"/>
+	<circle class="st4" cx="100.9" cy="110.5" r="47.8"/>
+	<rect x="38.2" y="105.7" class="st10" width="125.5" height="23.7"/>
+	<text transform="matrix(1 0 0 1 62.059 118.2407)" class="st14 st15 st16">Moderate</text>
+</g>
+<g id="SAFETY">
+</g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 195.1 270.3" style="enable-background:new 0 0 195.1 270.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E2286F;}
+	.st1{fill:#69C9CE;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:none;stroke:#9A9B9B;stroke-miterlimit:10;}
+	.st4{fill:#EAE8E8;}
+	.st5{fill:#EE3569;}
+	.st6{fill:url(#SVGID_1_);}
+	.st7{fill:none;stroke:#4F4E4E;stroke-width:0.5;stroke-miterlimit:10;}
+	.st8{fill:#F5CF56;}
+	.st9{fill:#6FC59B;}
+	.st10{fill:none;}
+	.st11{fill:#666766;}
+	.st12{font-family:'Almaq-Refined';}
+	.st13{font-size:29.7339px;}
+	.st14{font-family:'Arial-BoldMT';}
+	.st15{font-size:17.4905px;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="CRIME">
+	<circle class="st3" cx="99.7" cy="109.4" r="75.8"/>
+	<rect x="34.9" y="203.1" class="st10" width="128.6" height="38.1"/>
+	<text transform="matrix(1 0 0 1 48.6955 222.929)" class="st11 st12 st13">Malaysia</text>
+	<path class="st5" d="M99.7,180.8c-39.4,0-71.5-32.1-71.5-71.5c0-39.2,31.8-71.2,70.9-71.5v-8.7c-44,0.3-79.7,36.2-79.7,80.2
+		c0,44.2,36,80.2,80.2,80.2c18,0,34.6-6,48-16l-5.3-7C130.6,175.5,115.8,180.8,99.7,180.8z"/>
+	<circle class="st4" cx="99.1" cy="109" r="47.8"/>
+	<rect x="36.4" y="104.3" class="st10" width="125.5" height="23.7"/>
+	<text transform="matrix(1 0 0 1 79.7541 116.8157)" class="st0 st14 st15">High</text>
+</g>
+<g id="SAFETY">
+</g>
+</svg>

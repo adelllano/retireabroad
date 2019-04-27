@@ -1,0 +1,369 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:900');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+html,
+body {
+  margin: 0;
+  height: 100%
+}
+
+#start img {
+max-width: 100%;
+max-height: 70%;
+}
+
+
+header {
+  position: fixed;
+  background-color: #8bd8bd;
+  /* top: 20px;
+  left: 250px; */
+  width: 100%;
+  height: 35px;
+  padding-top: 10px;
+  text-align: center; /*centers navbar text */
+    z-index: 1;
+}
+
+span.navigationSpace {
+    padding-left: 50px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 12px;
+  font-family: arial, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+a:hover {
+  /* text-decoration: underline; */
+  /* color: #ff9fdd; */
+  text-decoration: overline;
+}
+a.active {
+  color: #fa41de;
+  text-decoration: underline overline;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  text-decoration: overline;
+  text-decoration-color: yellow;
+}
+
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #000000;
+}
+
+/* white box background in pink sections */
+.inner {
+    background-color: White;
+    width: 90%;
+    height: 80%;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 35px;
+  color: #fa41de;
+}
+/* This is the intro section */
+#introText {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+#introText p {
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 40px;
+  color: #757775;
+}
+
+/* This is the Cost of Living section */
+#Col h1 {
+  text-align: left;
+  padding-left: 90px;
+  padding-top: 40px;
+  margin: 0px;
+  width: 50%;
+}
+
+#Col p {
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 26px;
+  color: #757775;
+  text-align: left;
+  padding-left: 40px;
+  padding-right: 60px;
+  padding-top: 40px;
+  width: 315px;
+  height: 75px;
+  float: right;
+}
+
+.chart {
+width: 20%;
+min-height: 450px;
+}
+
+
+/* This is the Healthcare section */
+#healthcaretext p {
+  float: left;
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 26px;
+  color: #757775;
+  text-align: left;
+  padding-left: 90px;
+  padding-top: 20px;
+  /* max-width: 35%; */
+}
+
+#healthcaretext h1 {
+  text-align: left;
+  padding-left: 90px;
+  padding-top: 40px;
+  margin: 0px;
+}
+
+
+/* This is the Crime section */
+#crimetext p {
+  float: left;
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 26px;
+  color: #757775;
+  text-align: left;
+  padding-left: 90px;
+  padding-top: 20px;
+  max-width: 35%;
+  /* padding-right: 80px;
+  padding-top: 40px; */
+  /* max-width: 40%;
+  max-  height: 40%; */
+  /* padding-right: 75px; */
+}
+
+#crimetext h1 {
+  text-align: left;
+  padding-left: 90px;
+  padding-top: 40px;
+  margin: 0px;
+}
+
+/* .crimepics {
+    max-width: 400px;
+    max-height: 500px;
+    float: right;
+
+} */
+
+.crimepics img{
+  max-width: 10%;
+  max-height: 40%;
+  float: center;
+  padding-left: 10px;
+}
+
+/* span.line-2 img{
+  max-width: 10%;
+  max-height: 40%;
+  float: right;
+  padding-left: 10px;
+} */
+
+
+/* This is the Life Expectancy section */
+#lifetext {
+  max-width: 40%;
+  max-height: 90%;
+}
+
+#lifetext h1 {
+  text-align: left;
+  padding-left: 90px;
+  padding-top: 40px;
+  margin: 0px;
+
+}
+
+#lifetext p {
+  float: left;
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 26px;
+  color: #757775;
+  text-align: left;
+  padding-left: 90px;
+  padding-top: 20px;
+}
+
+#lifechart {
+  /* max-width: 55%;
+  max-height: 40%; */
+  float: right;
+}
+
+/* #countrypics img{
+  max-width: 10%;
+  max-height: 40%;
+  float: center;
+  padding-left: 10px;
+} */
+
+
+
+
+
+/* This is Data by Country */
+/* #countrypics {
+padding-left: 100px;
+padding-right: 100px;
+} */
+
+
+#countryheader h1 {
+  text-align: left;
+  padding-left: 90px;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  margin: 0px;
+  width: 60%;
+}
+
+/* .box {
+  width: 40%;
+  margin: 0 auto;
+  background: rgba(255,255,255,0.2);
+  padding: 35px;
+  border: 2px solid #fff;
+  border-radius: 20px/50px;
+  background-clip: padding-box;
+  text-align: center;
+} */
+
+
+.box img{
+  padding: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease-out;
+  max-width: 10%;
+  max-height: 40%;
+}
+
+.button:hover {
+  background: #06D85F;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+
+  opacity: 0;
+}
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+.popup {
+  margin: 70px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+  width: 60%;
+  height: auto;
+  position: relative;
+
+  /* transition: all 5s ease-in-out; */
+}
+
+.popup h2 {
+  margin-top: 0;
+  color: #333;
+  font-family: Tahoma, Arial, sans-serif;
+}
+.popup .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+.popup .close:hover {
+  color: #06D85F;
+}
+
+.popup .content {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+/* #section-4 img{
+  width: 100%;
+  height: 90%;
+} */
+
+.full-screen {
+  height: 100%; /* makes panels the entire window height */
+}
+
+.pink {
+	background-color:  #ffa9a0;
+}
+.blue {
+	background-color: #080a52;
+}
+.green {
+	background-color: #8bd8bd;
+}
+
+.white {
+  background-color: white;
+}
+
+@media screen and (max-width: 700px){
+  .box{
+    width: 70%;
+  }
+  .popup{
+    width: 70%;
+  }
+}
+/* .myDiv {
+  width: 100%;
+} */
+
+/* h1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 35px;
+  color: #434343;
+  text-align: left;
+  margin: 0;
+  padding-top: 50px;
+  padding-left: 90px;
+} */
+
+/* button {
+float: left;
+} */
