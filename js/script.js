@@ -342,7 +342,7 @@ google.charts.setOnLoadCallback(drawVisualization);
    //  };
 
    var options1 = {
-     title: 'Life Expecatancy After 60',
+     title: 'Life Expecatancy After 60 Years of Age',
      width: 700,
      height: 475,
      legend: { position: 'none' },
