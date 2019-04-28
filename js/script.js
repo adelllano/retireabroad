@@ -179,6 +179,32 @@ google.charts.setOnLoadCallback(drawVisualization);
 
               ]);
 
+              var options44 = {
+                  width: 650,
+                  height: 450,
+                  legend: 'bottom',
+                  title: 'INDEX',
+                  vAxis: {
+                      // title:'cost',
+                      minValue: 0,
+                      maxValue: 10,
+                      gridlines: {color: 'transparent'},
+                      format:'decimal'
+                  },
+                  series: { 0: {color: '#6fc59b'},
+                            1: {color: '#47A8BD'},
+                            2: {color: '#355D9E'},
+                            3: {color: '#d0b0cf'},
+                        },
+                  bar: {groupWidth: '77%'},
+                  pointShape: { type: 'circle'},
+                  animation: {
+                      duration: 500,
+                      easing: 'out',
+                      startup: true
+                  }
+
+              };
 
               var options = {
                   width: 650,
@@ -224,27 +250,32 @@ google.charts.setOnLoadCallback(drawVisualization);
 
 
 
-              chart.setOptions(options);
+
 
               function drawColindex() {
+                  chart.setOptions(options44);
                   chart.setChartType('ColumnChart');
                   chart.setDataTable(data[0]);
                   chart.draw();
               }
 
+
               function drawBars() {
+                  chart.setOptions(options);
                   chart.setChartType('ColumnChart');
                   chart.setDataTable(data[1]);
                   chart.draw();
               }
 
               function drawLine() {
+                  chart.setOptions(options);
                   chart.setChartType('ColumnChart');
                   chart.setDataTable(data[2]);
                   chart.draw();
               }
 
               function drawUtilities() {
+                  chart.setOptions(options);
                   chart.setChartType('ColumnChart');
                   chart.setDataTable(data[3]);
                   chart.draw();
@@ -343,6 +374,7 @@ google.charts.setOnLoadCallback(drawVisualization);
 
    var options1 = {
      title: 'Life Expecatancy After 60 Years of Age',
+     titleColor: '#353535',
      width: 655,
      height: 475,
      pointSize: 11,
