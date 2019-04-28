@@ -22,7 +22,7 @@ header {
   height: 35px;
   padding-top: 10px;
   text-align: center; /*centers navbar text */
-    z-index: 1;
+    z-index: 3;
 }
 
 span.navigationSpace {
@@ -68,6 +68,9 @@ section {
     height: 80%;
 }
 
+
+
+
 h1 {
   font-family: 'Raleway', sans-serif;
   font-size: 35px;
@@ -87,12 +90,21 @@ h1 {
 }
 
 /* This is the Cost of Living section */
-#Col h1 {
+
+#Col {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  grid-gap: 20px;
+}
+
+#Col h1{
   text-align: left;
   padding-left: 90px;
-  padding-top: 40px;
+  padding-top: 60px;
+  /* padding-top: 40px; */
   margin: 0px;
-  width: 50%;
+  grid-column: 1 / span 4;
+  grid-row: 3 / span 1;
 }
 
 #Col p {
@@ -101,18 +113,41 @@ h1 {
   line-height: 26px;
   color: #757775;
   text-align: left;
-  padding-left: 40px;
-  padding-right: 60px;
-  padding-top: 40px;
-  width: 315px;
-  height: 75px;
-  float: right;
+  padding-left: 90px;
+  grid-column: 1 / span 4;
+  grid-row: 4 / span 4;
+}
+#chart-div {
+  grid-column: 5 / span 4;
+  grid-row: 3 / span 2;
 }
 
-.chart {
-width: 20%;
-min-height: 450px;
+#buttons {
+  grid-column: 7 / span 3;
+  grid-row: 3 / span 1;
+  padding-top: 20px;
+
+  z-index: 2;
 }
+
+#b1 {
+    color: #258393;
+}
+#b2 {
+    color: #258393;
+}
+#b3 {
+    color: #258393;
+}
+#b4 {
+    color: #258393;
+}
+
+/* #b1:active{
+    color: #154B9B;
+} */
+
+
 
 
 /* This is the Healthcare section */
@@ -123,30 +158,54 @@ min-height: 450px;
   line-height: 26px;
   color: #757775;
   text-align: left;
-  padding-left: 90px;
+  padding-left: 150px;
   padding-top: 20px;
   /* max-width: 35%; */
 }
 
 #healthcaretext h1 {
   text-align: left;
-  padding-left: 90px;
+  padding-left: 150px;
   padding-top: 40px;
   margin: 0px;
 }
 
 
 /* This is the Crime section */
+#crimetext {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  grid-gap: 20px;
+  height: auto;
+  min-height: 590px;
+  /* grid-auto-rows: minmax(100px, auto); */
+  /* grid-template-rows: repeat(2, auto); */
+}
+
+#crimetext h1 {
+  text-align: left;
+  padding-left: 90px;
+  padding-top: 60px;
+  /* padding-top: 40px; */
+  margin: 0px;
+  grid-column: 1 / span 4;
+  grid-row: 3 / span 1;
+}
+
 #crimetext p {
-  float: right;
+  /* float: right; */
   font-size: 12px;
   font-family: 'Roboto', sans-serif;
   line-height: 26px;
   color: #757775;
   text-align: left;
-  /* padding-left: 90px; */
-  padding-top: 20px;
-  max-width: 35%;
+  grid-column: 1 / span 5;
+  grid-row: 4 / span 4;
+
+
+  padding-left: 90px;
+  /* padding-top: 20px;
+  max-width: 35%; */
   /* padding-right: 80px;
   padding-top: 40px; */
   /* max-width: 40%;
@@ -154,12 +213,15 @@ min-height: 450px;
   /* padding-right: 75px; */
 }
 
-#crimetext h1 {
-  text-align: left;
-  padding-left: 90px;
-  padding-top: 40px;
-  margin: 0px;
+.crimepics {
+  grid-column: 6 / span 4;
+  grid-row: 3 / span 4;
+  /* grid-row: 2 / span auto; */
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+
 }
+
 
 /* .crimepics {
     max-width: 400px;
@@ -168,7 +230,67 @@ min-height: 450px;
 
 } */
 
-.crimepics img{
+#crime-Belize {
+  grid-column: 1 / span 1;
+  grid-row: 1 / span auto;
+
+}
+
+#crime-Colombia {
+  grid-column: 2 / span 1;
+  grid-row: 1 / span auto;
+}
+
+#crime-CostaRica {
+  grid-column: 3 / span 1;
+  grid-row: 1 / span auto;
+}
+
+#crime-DR {
+  grid-column: 4 / span 1;
+  grid-row: 1 / span auto;
+}
+
+#crime-Ecuador {
+  grid-column: 1 / span 1;
+  grid-row: 2 / span auto;
+}
+
+#crime-Malaysia {
+  grid-column: 2 / span 1;
+  grid-row: 2 / span auto;
+}
+
+#crime-Malta {
+  grid-column: 3 / span 1;
+  grid-row: 2 / span auto;
+}
+
+#crime-Mexico {
+  grid-column: 4 / span 1;
+  grid-row: 2 / span auto;
+}
+
+#crime-Panama {
+  grid-column: 1 / span 1;
+  grid-row: 3 / span auto;
+}
+
+#crime-Portugal {
+  grid-column: 2 / span 1;
+  grid-row: 3 / span auto;
+}
+
+#crime-Spain {
+  grid-column: 3 / span 1;
+  grid-row: 3 / span auto;
+}
+#crime-Thailand {
+  grid-column: 4 / span 1;
+  grid-row: 4 / span auto;
+}
+
+/* .crimepics img{
   max-width: 100px;
   max-height: 40%;
   float: center;
@@ -178,6 +300,8 @@ min-height: 450px;
 #crpics1 {
   width: 50%;
   margin: 0px;
+  grid-column: 4 / span 4;
+  grid-row: 2 / span auto;
 }
 
 #crpics2 {
@@ -188,7 +312,7 @@ min-height: 450px;
 #crpics3 {
   width: 50%;
   margin: 0px;
-}
+} */
 /* span.line-2 img{
   max-width: 10%;
   max-height: 40%;
@@ -253,6 +377,7 @@ padding-right: 100px;
   padding-bottom: 10px;
   margin: 0px;
   width: 60%;
+
 }
 
 /* .box {
@@ -381,3 +506,6 @@ padding-right: 100px;
 /* button {
 float: left;
 } */
+@supports(display: grid) {
+        .message {
+          display: none;

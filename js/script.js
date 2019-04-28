@@ -181,8 +181,8 @@ google.charts.setOnLoadCallback(drawVisualization);
 
 
               var options = {
-                  width: 750,
-                  height: 500,
+                  width: 650,
+                  height: 450,
                   legend: 'bottom',
                   vAxis: {
                       // title:'cost',
@@ -193,17 +193,17 @@ google.charts.setOnLoadCallback(drawVisualization);
                   },
                   series: { 0: {color: '#6fc59b'},
                             1: {color: '#47A8BD'},
-                            2: {color: '#f9a35e'},
+                            2: {color: '#355D9E'},
                             3: {color: '#d0b0cf'},
                             4: {color: '#1B4079'},
-                            5: {color: '#83B692'},
-                            6: {color: '#F9ADA0'},
-                            7: {color: '#5B3758'},
-                            8: {color: '#E5446D'},
-                            9: {color: '#F18F01'},
-                            10: {color: '#D7B9D5'},
-                            11: {color: '#64A6BD'},
-                            12: {type: 'line', color: '#F24F6D'}
+                            // 5: {color: '#83B692'},
+                            // 6: {color: '#F9ADA0'},
+                            // 7: {color: '#5B3758'},
+                            // 8: {color: '#E5446D'},
+                            // 9: {color: '#F18F01'},
+                            // 10: {color: '#D7B9D5'},
+                            // 11: {color: '#64A6BD'},
+                            // 12: {type: 'line', color: '#F24F6D'}
                         },
                   colors: ['orange'],
                   pointSize: 10,
@@ -227,13 +227,13 @@ google.charts.setOnLoadCallback(drawVisualization);
               chart.setOptions(options);
 
               function drawColindex() {
-                  chart.setChartType('BarChart');
+                  chart.setChartType('ColumnChart');
                   chart.setDataTable(data[0]);
                   chart.draw();
               }
 
               function drawBars() {
-                  chart.setChartType('BarChart');
+                  chart.setChartType('ColumnChart');
                   chart.setDataTable(data[1]);
                   chart.draw();
               }
@@ -291,11 +291,11 @@ google.charts.setOnLoadCallback(drawVisualization);
 
      var options = {
        // title: 'Chess opening moves',
-       width: 600,
+       width: 500,
        height: 400,
        legend: { position: 'none' },
 
-       colors: ['#f9a35e'],
+       colors: ['#399EB5'],
        hAxis: {
           title: 'Total Population',
           minValue: 60,
@@ -343,13 +343,16 @@ google.charts.setOnLoadCallback(drawVisualization);
 
    var options1 = {
      title: 'Life Expecatancy After 60 Years of Age',
-     width: 700,
+     width: 655,
      height: 475,
+     pointSize: 11,
      legend: { position: 'none' },
-     colors: ['#f9a35e'],
+     // colors: ['#f9a35e'],
+     colors: ['#89CCA3'],
      gridlines: {color: 'white'},
-     series: { 1: {color: 'lightgray'} }, // series: [ {}, {color: 'lightgray'} ]
+     series: { 1: {color: 'white'} }, // series: [ {}, {color: 'lightgray'} ]
      vAxis: { logscale: true },
+
      // chart: { title: 'Chess opening moves',
      //          subtitle: 'popularity by percentage' },
      // bars: 'horizontal', // Required for Material Bar Charts.
