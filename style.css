@@ -138,13 +138,13 @@ min-height: 450px;
 
 /* This is the Crime section */
 #crimetext p {
-  float: left;
+  float: right;
   font-size: 12px;
   font-family: 'Roboto', sans-serif;
   line-height: 26px;
   color: #757775;
   text-align: left;
-  padding-left: 90px;
+  /* padding-left: 90px; */
   padding-top: 20px;
   max-width: 35%;
   /* padding-right: 80px;
@@ -169,12 +169,26 @@ min-height: 450px;
 } */
 
 .crimepics img{
-  max-width: 10%;
+  max-width: 100px;
   max-height: 40%;
   float: center;
   padding-left: 10px;
 }
 
+#crpics1 {
+  width: 50%;
+  margin: 0px;
+}
+
+#crpics2 {
+  width: 50%;
+  margin: 0px;
+}
+
+#crpics3 {
+  width: 50%;
+  margin: 0px;
+}
 /* span.line-2 img{
   max-width: 10%;
   max-height: 40%;
