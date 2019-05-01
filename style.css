@@ -537,3 +537,4 @@ float: left;
 @supports(display: grid) {
         .message {
           display: none;
+        }}

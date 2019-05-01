@@ -95,7 +95,7 @@ google.charts.setOnLoadCallback(drawVisualization);
                 ['Belize', 49, 9],
                 ['Colombia', 30, 9],
                 ['Costa Rica', 51, 15],
-                ['Dominican Republic', 45, 10],
+                ['D.R.', 45, 10],
                 ['Ecudaor', 42, 12],
                 ['Malaysia',  39, 11],
                 ['Malta',  63, 29],
@@ -112,12 +112,12 @@ google.charts.setOnLoadCallback(drawVisualization);
               data[1].addColumn('string', 'x');
               data[1].addColumn('number', 'Inexpensive Meal');
               data[1].addColumn('number', 'Meal for 2');
-              data[1].addColumn('number', 'McMeal at McDonalds');
+              data[1].addColumn('number', 'Meal at McDonalds');
               data[1].addRows([
                 ['Belize', 5.00, 36.00, 5.00],
                 ['Colombia', 3.20, 19.18, 4.79],
                 ['Costa Rica',  7.04, 33.14, 6.63],
-                ['Dominican Republic',  6.91, 39.49, 6.91],
+                ['D.R.',  6.91, 39.49, 6.91],
                 ['Ecudaor',  3.50, 30.00, 6.00],
                 ['Malaysia',  2.44, 14.67, 3.18],
                 ['Malta',  16.27, 56.11, 8.98],
@@ -145,7 +145,7 @@ google.charts.setOnLoadCallback(drawVisualization);
                 ['Belize', 7.42, 1.06, 2.04],
                 ['Colombia', 3.03, 0.83, 1.48],
                 ['Costa Rica',  5.04, 1.65,	2.54],
-                ['Dominican Republic',  4.40,	1.20,	1.84],
+                ['D.R.',  4.40,	1.20,	1.84],
                 ['Ecudaor',  3.66,	1.43,	1.73],
                 ['Malaysia',  6.31,	0.73,	1.27],
                 ['Malta',  3.76,	1.01,	2.47],
@@ -158,16 +158,17 @@ google.charts.setOnLoadCallback(drawVisualization);
               ]);
 
               data[3] = new google.visualization.DataTable();
-
+// Electricity, Heating, Cooling, Water, Garbage
+// 60 Mbps or More, Unlimited Data, Cable/ADSL
               data[3].addColumn('string', 'x');
-              data[3].addColumn('number', 'Basic (Electricity, Heating, Cooling, Water, Garbage');
-              data[3].addColumn('number', 'Internet (60 Mbps or More, Unlimited Data, Cable/ADSL');
+              data[3].addColumn('number', 'Basic Utilities');
+              data[3].addColumn('number', 'Internet (Monthly)');
               data[3].addRows([
 
                 ['Belize', 87.01,	66.57 ],
                 ['Colombia', 71.50,	31.98 ],
                 ['Costa Rica',  74.89,	63.46 ],
-                ['Dominican Republic',  66.19,	54.15 ],
+                ['D.R.',  66.19,	54.15 ],
                 ['Ecudaor',  41.33,	38.53  ],
                 ['Malaysia',  45.04,	35.15 ],
                 ['Malta',  89.31,	35.21 ],
@@ -308,7 +309,7 @@ google.charts.setOnLoadCallback(drawVisualization);
        ["Belize", 45],
        ["Colombia", 68],
        ["Costa Rica", 62],
-       ["Dominican Republic", 53],
+       ["D.R.", 53],
        ['Ecuador', 73],
        ['Malaysia', 68],
        ['Malta', 78],
@@ -351,7 +352,7 @@ google.charts.setOnLoadCallback(drawVisualization);
      ["Belize", 83],
      ["Colombia", 87 ],
      ["Costa Rica", 85],
-     ["Dominican Republic", 83],
+     ["D.R.", 83],
      ['Ecuador', 83],
      ['Malaysia', 80],
      ['Malta', 85],
@@ -399,3 +400,17 @@ google.charts.setOnLoadCallback(drawVisualization);
 var chart = new google.visualization.ScatterChart(document.getElementById('life_div'));
    chart.draw(data1, options1);
  };
+
+ $(window).resize(function() {
+     if(this.resizeTO) clearTimeout(this.resizeTO);
+     this.resizeTO = setTimeout(function() {
+         $(this).trigger('resizeEnd');
+     }, 500);
+ });
+
+
+ $(window).on('resizeEnd', function(){
+  drawLife();
+  drawStuff();
+  drawVisualization();
+});
