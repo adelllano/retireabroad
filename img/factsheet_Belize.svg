@@ -4,18 +4,18 @@
 	 viewBox="0 0 720 515.3" style="enable-background:new 0 0 720 515.3;" xml:space="preserve">
 <style type="text/css">
 	.st0{display:none;}
-	.st1{fill:none;}
-	.st2{fill:#A8A8A8;}
-	.st3{fill:#89CCA3;stroke:#0FB753;stroke-width:0.25;stroke-miterlimit:10;}
-	.st4{fill:#143C75;}
+	.st1{fill:#A8A8A8;}
+	.st2{fill:#89CCA3;stroke:#0FB753;stroke-width:0.25;stroke-miterlimit:10;}
+	.st3{fill:#143C75;}
+	.st4{fill:none;}
 	.st5{fill:#8D90C7;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
 	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#8D90C7;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
 	.st7{font-family:'Bulo-Black';}
 	.st8{font-size:14.5939px;}
-	.st9{font-size:36px;}
-	.st10{fill:#565556;}
-	.st11{font-family:'ArialMT';}
-	.st12{font-size:11px;}
+	.st9{fill:#565556;}
+	.st10{font-family:'ArialMT';}
+	.st11{font-size:11px;}
+	.st12{font-family:'Arial-ItalicMT';}
 	.st13{font-size:15px;}
 	.st14{fill:#E5367A;}
 	.st15{fill:#606060;}
@@ -53,7 +53,7 @@
 </style>
 <g id="Belize" class="st0">
 	
-		<image style="display:inline;overflow:visible;" width="1200" height="1860" id="DXtVxN_2_" xlink:href="5E47125778B062E9.jpg"  transform="matrix(0.325 0 0 0.325 17.1941 -68.2326)">
+		<image style="display:inline;overflow:visible;" width="1200" height="1860" id="DXtVxN_2_" xlink:href="5E47125778B062EA.jpg"  transform="matrix(0.325 0 0 0.325 17.1941 -68.2326)">
 	</image>
 </g>
 <g>
@@ -163,74 +163,73 @@
 		l-1.7-9.5L254.3,161.3z M248.9,181.5l-2.5-1l-1.1,0.8v1.1l0.5,0.5l0.6,0.9l1,1.2l1.5,0.7l1.4-0.2l0.2,0.8l0.2,3.7l0.3,1.5l1.2,0.1
 		l0.7-1.6v-1.1l0.5-0.8l0.4-1.8L252,184L248.9,181.5z"/>
 </g>
-<text transform="matrix(1 0 0 1 399.7652 433.6366)" class="st4 st7 st8">Life Expectancy</text>
-<text transform="matrix(1 0 0 1 399.7652 297.4647)" class="st4 st7 st8">Cost of Living</text>
-<text transform="matrix(1 0 0 1 399.7652 342.287)" class="st4 st7 st8">Healthcare</text>
-<text transform="matrix(1 0 0 1 399.7652 388.0097)" class="st4 st7 st8">Crime</text>
-<rect x="397.3" y="138.5" class="st1" width="286.7" height="136"/>
-<text transform="matrix(1 0 0 1 397.3333 163.893)" class="st4 st7 st9">B</text>
-<rect x="400.7" y="155.9" class="st1" width="273.9" height="188.8"/>
-<text transform="matrix(1 0 0 1 400.7215 163.7757)"><tspan x="0" y="0" class="st10 st11 st12">         elize is an independent and sovereign country </tspan><tspan x="0" y="13.2" class="st10 st11 st12">located on the north eastern coast of Central America. </tspan><tspan x="0" y="26.4" class="st10 st11 st12">Belize is bordered on the northwest by Mexico, on the </tspan><tspan x="0" y="39.6" class="st10 st11 st12">east by the Caribbean Sea, and on the south and west </tspan><tspan x="0" y="52.8" class="st10 st11 st12">by Guatemala. It has an area of 22,970 square kilome</tspan><tspan x="262.3" y="52.8" class="st10 st11 st12">-</tspan><tspan x="0" y="66" class="st10 st11 st12">tres (8,867 sq mi) and a population of 387,879 </tspan><tspan x="0" y="79.2" class="st10 st11 st12">(2017).[5] Its mainland is about 180 mi (290 km) long </tspan><tspan x="0" y="92.4" class="st10 st11 st12">and 68 mi (110 km) wide. It has the lowest population </tspan><tspan x="0" y="105.6" class="st10 st11 st12">and population density in Central America.</tspan></text>
-<text transform="matrix(1 0 0 1 399.3329 21.3339)" class="st4 st7 st13">Capital:</text>
+<text transform="matrix(1 0 0 1 399.7652 433.6366)" class="st3 st7 st8">Life Expectancy</text>
+<text transform="matrix(1 0 0 1 399.7652 297.4647)" class="st3 st7 st8">Cost of Living</text>
+<text transform="matrix(1 0 0 1 399.7652 342.287)" class="st3 st7 st8">Healthcare</text>
+<text transform="matrix(1 0 0 1 399.7652 388.0097)" class="st3 st7 st8">Crime</text>
+<rect x="397.3" y="138.5" class="st4" width="286.7" height="136"/>
+<rect x="400.7" y="137.9" class="st4" width="273.9" height="188.8"/>
+<text transform="matrix(1 0 0 1 400.7215 145.7805)"><tspan x="0" y="0" class="st9 st10 st11">“Belize is an independent and sovereign country located </tspan><tspan x="0" y="13.2" class="st9 st10 st11">on the north eastern coast of Central America. Belize is </tspan><tspan x="0" y="26.4" class="st9 st10 st11">bordered on the northwest by Mexico, on the east by </tspan><tspan x="0" y="39.6" class="st9 st10 st11">the Caribbean Sea, and on the south and west by </tspan><tspan x="0" y="52.8" class="st9 st10 st11">Guatemala. It has an area of 22,970 square kilometres </tspan><tspan x="0" y="66" class="st9 st10 st11">(8,867 sq mi) and a population of 387,879 (2017).[5] Its </tspan><tspan x="0" y="79.2" class="st9 st10 st11">mainland is about 180 mi (290 km) long and 68 mi (110 </tspan><tspan x="0" y="92.4" class="st9 st10 st11">km) wide. It has the lowest population and population </tspan><tspan x="0" y="105.6" class="st9 st10 st11">density in Central America”.</tspan><tspan x="135.1" y="105.6" class="st9 st12 st11"> Source: Wikipedia</tspan></text>
+<text transform="matrix(1 0 0 1 399.3329 21.3339)" class="st3 st7 st13">Capital:</text>
 <text transform="matrix(1 0 0 1 448.3329 21.3339)" class="st14 st7 st13"> </text>
-<text transform="matrix(1 0 0 1 451.2329 21.3339)" class="st15 st11 st12">Belmopan</text>
-<text transform="matrix(1 0 0 1 399.3329 39.3339)" class="st4 st7 st13">Population:</text>
-<text transform="matrix(1 0 0 1 473.8329 39.3339)" class="st14 st11 st12"> </text>
-<text transform="matrix(1 0 0 1 476.9329 39.3339)" class="st15 st11 st12">385,854</text>
-<text transform="matrix(1 0 0 1 399.3329 57.3338)" class="st4 st7 st13">Language:</text>
-<text transform="matrix(1 0 0 1 465.1329 57.3338)" class="st16 st11 st12"> </text>
-<text transform="matrix(1 0 0 1 468.1329 57.3338)" class="st15 st11 st12">English 62.9% (official), Spanish 56.6%, </text>
-<text transform="matrix(1 0 0 1 399.3329 70.5338)" class="st15 st11 st12">Creole 44.6% </text>
-<text transform="matrix(1 0 0 1 399.3329 88.5339)" class="st4 st7 st13">Climate:</text>
-<text transform="matrix(1 0 0 1 452.733 88.5339)" class="st14 st17 st12"> </text>
-<text transform="matrix(1 0 0 1 455.8329 88.5339)" class="st15 st11 st12">tropical; very hot and humid; rainy</text>
-<text transform="matrix(1 0 0 1 399.3329 101.7339)" class="st15 st11 st12">season (May to November); dry season </text>
-<text transform="matrix(1 0 0 1 399.3329 114.9339)" class="st15 st11 st12">(February to May)</text>
-<path class="st2" d="M635,309.7H399.3c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2H635c1.1,0,2,0.9,2,2l0,0
+<text transform="matrix(1 0 0 1 451.2329 21.3339)" class="st15 st10 st11">Belmopan</text>
+<text transform="matrix(1 0 0 1 399.3329 39.3339)" class="st3 st7 st13">Population:</text>
+<text transform="matrix(1 0 0 1 473.8329 39.3339)" class="st14 st10 st11"> </text>
+<text transform="matrix(1 0 0 1 476.9329 39.3339)" class="st15 st10 st11">385,854</text>
+<text transform="matrix(1 0 0 1 399.3329 57.3338)" class="st3 st7 st13">Language:</text>
+<text transform="matrix(1 0 0 1 465.1329 57.3338)" class="st16 st10 st11"> </text>
+<text transform="matrix(1 0 0 1 468.1329 57.3338)" class="st15 st10 st11">English 62.9% (official), Spanish 56.6%, </text>
+<text transform="matrix(1 0 0 1 399.3329 70.5338)" class="st15 st10 st11">Creole 44.6% </text>
+<text transform="matrix(1 0 0 1 399.3329 88.5339)" class="st3 st7 st13">Climate:</text>
+<text transform="matrix(1 0 0 1 452.733 88.5339)" class="st14 st17 st11"> </text>
+<text transform="matrix(1 0 0 1 455.8329 88.5339)" class="st15 st10 st11">tropical; very hot and humid; rainy</text>
+<text transform="matrix(1 0 0 1 399.3329 101.7339)" class="st15 st10 st11">season (May to November); dry season </text>
+<text transform="matrix(1 0 0 1 399.3329 114.9339)" class="st15 st10 st11">(February to May)</text>
+<path class="st1" d="M635,309.7H399.3c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2H635c1.1,0,2,0.9,2,2l0,0
 	C636.9,308.8,636,309.7,635,309.7z"/>
-<path class="st3" d="M470.6,312.5h-69.3c-2.2,0-3.9-1.8-3.9-3.9v-1.8c0-2.2,1.8-3.9,3.9-3.9h69.3c2.2,0,3.9,1.8,3.9,3.9v1.8
+<path class="st2" d="M470.6,312.5h-69.3c-2.2,0-3.9-1.8-3.9-3.9v-1.8c0-2.2,1.8-3.9,3.9-3.9h69.3c2.2,0,3.9,1.8,3.9,3.9v1.8
 	C474.5,310.7,472.7,312.5,470.6,312.5z"/>
-<path class="st2" d="M635,354.9H399.3c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2H635c1.1,0,2,0.9,2,2l0,0C636.9,354,636,354.9,635,354.9
+<path class="st1" d="M635,354.9H399.3c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2H635c1.1,0,2,0.9,2,2l0,0C636.9,354,636,354.9,635,354.9
 	z"/>
-<path class="st3" d="M513.2,358H401.3c-2.2,0-3.9-1.8-3.9-3.9V352c0-2.2,1.8-3.9,3.9-3.9h111.9c2.2,0,3.9,1.8,3.9,3.9v2.1
+<path class="st2" d="M513.2,358H401.3c-2.2,0-3.9-1.8-3.9-3.9V352c0-2.2,1.8-3.9,3.9-3.9h111.9c2.2,0,3.9,1.8,3.9,3.9v2.1
 	C517.1,356.2,515.4,358,513.2,358z"/>
-<path class="st2" d="M635,400.2H399.3c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2H635c1.1,0,2,0.9,2,2l0,0
+<path class="st1" d="M635,400.2H399.3c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2H635c1.1,0,2,0.9,2,2l0,0
 	C636.9,399.3,636,400.2,635,400.2z"/>
-<path class="st3" d="M541.4,403.1H401.3c-2.2,0-3.9-1.8-3.9-3.9v-1.8c0-2.2,1.8-3.9,3.9-3.9h140.1c2.2,0,3.9,1.8,3.9,3.9v1.8
-	C545.3,401.3,543.6,403.1,541.4,403.1z"/>
-<path class="st2" d="M635,446.1H399.3c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2H635c1.1,0,2,0.9,2,2l0,0
+<path class="st2" d="M531.3,403.1H401c-2,0-3.6-1.8-3.6-3.9v-1.8c0-2.2,1.7-3.9,3.6-3.9h130.3c2,0,3.6,1.8,3.6,3.9v1.8
+	C535,401.3,533.4,403.1,531.3,403.1z"/>
+<path class="st1" d="M635,446.1H399.3c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2H635c1.1,0,2,0.9,2,2l0,0
 	C636.9,445.2,636,446.1,635,446.1z"/>
-<path class="st3" d="M596.5,449.1H401.3c-2.2,0-3.9-1.8-3.9-3.9v-1.8c0-2.2,1.8-3.9,3.9-3.9h195.2c2.2,0,3.9,1.8,3.9,3.9v1.8
+<path class="st2" d="M596.5,449.1H401.3c-2.2,0-3.9-1.8-3.9-3.9v-1.8c0-2.2,1.8-3.9,3.9-3.9h195.2c2.2,0,3.9,1.8,3.9,3.9v1.8
 	C600.4,447.4,598.6,449.1,596.5,449.1z"/>
-<polygon class="st4" points="653.4,296.7 653.4,303.2 644.2,308 653.4,312.2 653.4,318.6 675.3,318.6 675.3,296.7 "/>
-<polygon class="st4" points="653.4,341.9 653.4,348.4 644.2,353.2 653.4,357.3 653.4,363.8 675.3,363.8 675.3,341.9 "/>
-<polygon class="st4" points="653.4,387.3 653.4,393.7 644.2,398.5 653.4,402.7 653.4,409.2 675.3,409.2 675.3,387.3 "/>
-<polygon class="st4" points="653.4,433.2 653.4,439.7 644.2,444.4 653.4,448.6 653.4,455.1 675.3,455.1 675.3,433.2 "/>
-<text transform="matrix(1 0 0 1 657.7631 311.5071)" class="st18 st17 st12">30</text>
-<text transform="matrix(1 0 0 1 658.7634 356.9701)" class="st18 st17 st12">45</text>
-<text transform="matrix(1 0 0 1 657.7629 402.0516)" class="st18 st17 st12">56</text>
-<text transform="matrix(1 0 0 1 657.7633 448.093)" class="st18 st17 st12">81</text>
+<polygon class="st3" points="653.4,296.7 653.4,303.2 644.2,308 653.4,312.2 653.4,318.6 675.3,318.6 675.3,296.7 "/>
+<polygon class="st3" points="653.4,341.9 653.4,348.4 644.2,353.2 653.4,357.3 653.4,363.8 675.3,363.8 675.3,341.9 "/>
+<polygon class="st3" points="653.4,387.3 653.4,393.7 644.2,398.5 653.4,402.7 653.4,409.2 675.3,409.2 675.3,387.3 "/>
+<polygon class="st3" points="653.4,433.2 653.4,439.7 644.2,444.4 653.4,448.6 653.4,455.1 675.3,455.1 675.3,433.2 "/>
+<text transform="matrix(1 0 0 1 657.7631 311.5071)" class="st18 st17 st11">30</text>
+<text transform="matrix(1 0 0 1 658.7634 356.9701)" class="st18 st17 st11">45</text>
+<text transform="matrix(1 0 0 1 657.7629 402.0516)" class="st18 st17 st11">56</text>
+<text transform="matrix(1 0 0 1 657.7633 448.093)" class="st18 st17 st11">81</text>
 <line class="st42" x1="218.9" y1="452.9" x2="313.1" y2="452.9"/>
 <line class="st42" x1="218.5" y1="456.4" x2="320.2" y2="456.4"/>
 <line class="st43" x1="218.9" y1="449.2" x2="218.9" y2="453.4"/>
 <line class="st43" x1="249.9" y1="449.2" x2="249.9" y2="452.9"/>
 <line class="st43" x1="281.6" y1="449.2" x2="281.6" y2="452.9"/>
 <line class="st43" x1="313.1" y1="449.2" x2="313.1" y2="453.4"/>
-<rect x="216.8" y="441.8" class="st1" width="115" height="8.3"/>
-<text transform="matrix(1 0 0 1 216.8344 447.5337)" class="st11 st44">0          20           40          60 km</text>
-<rect x="216.8" y="461.3" class="st1" width="121" height="8.5"/>
-<text transform="matrix(1 0 0 1 216.8344 467.0722)" class="st11 st44">0                   20                   40 mi</text>
+<rect x="216.8" y="441.8" class="st4" width="115" height="8.3"/>
+<text transform="matrix(1 0 0 1 216.8344 447.5337)" class="st10 st44">0          20           40          60 km</text>
+<rect x="216.8" y="461.3" class="st4" width="121" height="8.5"/>
+<text transform="matrix(1 0 0 1 216.8344 467.0722)" class="st10 st44">0                   20                   40 mi</text>
 <line class="st43" x1="218.7" y1="456.1" x2="218.7" y2="460.2"/>
 <line class="st43" x1="269.3" y1="456.1" x2="269.3" y2="459.8"/>
 <line class="st43" x1="319.9" y1="456.1" x2="319.9" y2="460.2"/>
 <circle cx="82.7" cy="245.3" r="4"/>
 <circle cx="169.9" cy="82" r="4"/>
-<rect x="121" y="212.5" class="st1" width="60.1" height="12.6"/>
-<text transform="matrix(1 0 0 1 121.0059 218.9081)" class="st45 st11 st46">Belmopan</text>
-<rect x="73.6" y="228.5" class="st1" width="74.7" height="19.4"/>
-<text transform="matrix(1 0 0 1 73.5746 234.9098)" class="st45 st11 st46">San Ignacio</text>
-<rect x="159.3" y="66.2" class="st1" width="74.5" height="8.7"/>
-<text transform="matrix(1 0 0 1 159.3069 72.6321)" class="st45 st11 st46">Orange  Walk</text>
+<rect x="121" y="212.5" class="st4" width="60.1" height="12.6"/>
+<text transform="matrix(1 0 0 1 121.0059 218.9081)" class="st45 st10 st46">Belmopan</text>
+<rect x="73.6" y="228.5" class="st4" width="74.7" height="19.4"/>
+<text transform="matrix(1 0 0 1 73.5746 234.9098)" class="st45 st10 st46">San Ignacio</text>
+<rect x="159.3" y="66.2" class="st4" width="74.5" height="8.7"/>
+<text transform="matrix(1 0 0 1 159.3069 72.6321)" class="st45 st10 st46">Orange  Walk</text>
 <g>
 	<circle cx="135.2" cy="227.5" r="4"/>
 	<polygon class="st18" points="135.2,223.5 136,226.2 139,226.2 136.5,227.8 137.5,230.6 135.2,228.7 132.9,230.6 133.9,227.8 

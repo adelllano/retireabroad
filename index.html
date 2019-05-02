@@ -42,12 +42,13 @@
 <!-- This is the Intro section -->
     <section class="full-screen white" id="section-7">
         <div id="introText">
-        <!-- <h1>What's most important to you when considering a retirement destination?</h1> -->
-        <p>I took a look at <b>12 of the most popular overseas retirement desitnations</b> to find out what makes them so popular.
-        Cost of living is one of the top contributors to choosing a location overseas but what type of costs can you really expect, when compared to the United States.
-        <!-- So what's most important to you when considering a retirement destination? (Choose a topic below or scroll down to view them all) -->
+
+        <p>I took a look at <b>12 of the most popular overseas retirement destinations</b>, based on multiple articles, to find out what makes them so popular.
+        Then I identified cost of living, healthcare, and safety as some of the top contributors to choosing a destination overseas and explored each topic within the 12 countries.
       </p>
-        <!-- <img src="img/intro.png" alt="placeholder"> -->
+      <div id="instructions">
+      <p><b>Scroll to view data by topic or by country.</b></p>
+      </div>
       </div>
     </section>
 
@@ -56,15 +57,15 @@
     <section class="full-screen green" id="section-6">
       <div class= 'inner'>
         <div id= 'Col'>
-                    <!-- <img src="img/Cost_Pink.png"> -->
           <h1>COST OF LIVING</h1>
 
-          <p>These indices are relative to New York City (NYC). Which means that for New York City, each index should be 100(%). If another city has, for example, rent index of 120, it means that on an average in that city rents are 20% more expensive than in New York City. If a city has rent index of 70, that means on an average in that city rents are 30% less expensive than in New York City.
+          <p>The cost of living and rent indices for each country uses New York City (NYC) as the base cost index. This means that <a href= "https://www.numbeo.com/cost-of-living/cpi_explained.jsp"><b>New York City's index is set to 100</b></a>, and the countries listed here are compared to NYC's cost of living and rent index. In this first chart, Malta shows a Cost Living Index of 60, the highest of the 12 countries listed. This indicates that on average, Malta's cost of living is 40% less that in NYC.
 
-Cost of Living Index (Excl. Rent) is a relative indicator of consumer goods prices, including groceries, restaurants, transportation and utilities. Cost of Living Index doesn't include accommodation expenses such as rent or mortgage. If a city has a Cost of Living Index of 120, it means Numbeo estimates it is 20% more expensive than New York (excluding rent).
+          <br><b>Click on topics (to the right) to view costs in Dollars.</b></br>
 
+<
 </p>
-<!-- Rent Index is an estimation of prices of renting apartments in the city compared to New York City. If Rent index is 80, Numbeo estimates that price of rents in that city is on an average 20% less than the price in New York. -->
+
           <div id= 'buttons'>
           <input type='button' id='b1' value='Index' />
           <input type='button' id='b2' value='Eating Out' />
@@ -82,17 +83,11 @@ Cost of Living Index (Excl. Rent) is a relative indicator of consumer goods pric
 
 	    <div id='healthcaretext'>
         <h1>HEALTHCARE</h1>
-          <p>This section is based on surveys from visitors of this website. Questions for these surveys are similar to many similar scientific and government surveys.
+          <p>To determine the healthcare index for each country, Numbeo.com visitors enter information based on a set of related questions.
+            The questions pertain to the quality of healthcare, such as the skill/competency of medical staff, speed and accuracy in completing paperwork, availability of modern equipment, friendliness of staff, etc. The index is shown on a scale of 0 to 100, with <a href="https://www.numbeo.com/health-care/indices_explained.jsp"><b>100 indicating a high level of satisfaction </b></a>with the quality of healthcare.
+          </p>
 
-Each entry in the survey is saved as the number in the range [-2, +2], with -2 having meaning of strongly negative and +2 meaning of strongly positive.
 
-We filter surveys to eliminate potential spam, like people entering a large amount of data which are differentiating from the median value.
-
-To present survey result, we use the scale [0, 100] for values since it is easier to read for users.
-
-To generate a current index (which is always updated) we use data up to 36 months old. We include only cities for which there are at least a certain number of contributors. Our semiannual index is remade twice per year by pushing current index into this historical view.
-
-Health Care Index is an estimation of the overall quality of the health care system, health care professionals, equipment, staff, doctors, cost, etc.</p>
 
         <div id= 'top_x_div' style="width: 500px; height: 300px; padding-right: 40px;"></div>
         	    </div>
@@ -106,15 +101,8 @@ Health Care Index is an estimation of the overall quality of the health care sys
       <div class= 'inner'>
           <div id='crimetext'>
             <h1>CRIME</h1>
-            <p>This section is based on surveys from visitors of this website. Questions for these surveys are similar to many similar scientific and government surveys.
-
-Each entry in the survey is saved as the number in the range [-2, +2], with -2 having meaning of strongly negative and +2 meaning of strongly positive.
-
-We filter surveys to eliminate potential spam, like people entering a large amount of data which are differentiating from the median value.
-
-To present survey result, we use the scale [0, 100] for values since it is easier to read for users.
-
-To generate a current index (which is always updated) we use data up to 36 months old. We include only cities for which there are at least a certain number of contributors. Our semiannual index is remade twice per year by pushing current index into this historical view.
+            <p>To determine the crime index for each country, Numbeo.com visitors enter information based on a set of related questions.
+              The questions pertain to how the individual perceives the severity of the level of crime in their country. Visitors rate how they feel about the crime level over the past three years, feeling of safety while walking in the daytime vs the nightime, how much they worry about being robbed or having their car stolen, etc. The index is shown on a scale of 0 to 100, with <a href="https://www.numbeo.com/crime/indices_explained.jsp"><b> 20-40 indicating low crime levels, 40-60 being moderate, and 60-80 as high </b></a>.
 </p>
 
 <!--
@@ -201,7 +189,9 @@ data are not available for most of the world -->
       <div id= 'lifetext'>
         <h1>LIFE EXPECTANCY</h1>
       <!-- <img src="img/chart.png" alt="placeholder"> -->
-      <p>Life expectancy equals the average number of years a person born in a given country is expected to live if mortality rates at each age were to remain steady in the future. Worldwide, the average life expectancy at birth was 71.5 years (68 years and 4 months for males and 72 years and 8 months for females) over the period 2010–2015 according to United Nations World Population Prospects 2015 Revision, or 69 years (67 years for males and 71.1 years for females) for 2016 according to The World Factbook. Comparing life expectancies from birth across countries can be problematic. There are differing definitions of live birth vs stillbirth even among more developed countries and less developed countries often have poor reporting.</p>
+      <p>Life expectancy is typically determined by the average number of years a person is expected to live if mortality rates remain constant. The World Health Organization provides an average life expectancy at age 60 which is <a href="http://apps.who.int/gho/data/node.wrapper.imr?x-id=1"><b>based on the mortality rate level of a country's population of 60 years of age</b></a>.
+
+        The United Stated has an average life expectancy of 84 at age 60. When comparing life expectancies between countries, keep in mind that less developed countries often don't have accurate reporting due to limited resources.</p>
       </div>
         <div id='lifechart'>
   <div id= 'life_div' style="width: 600px; height: 400px;"></div>
@@ -215,6 +205,7 @@ data are not available for most of the world -->
       <div class= 'inner'>
         <div id='countryheader'>
         <h1>DATA BY COUNTRY</h1>
+        <p>Click on a country to view details</p>
         </div>
 
 <div id='countrypics'>

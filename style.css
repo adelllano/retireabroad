@@ -53,6 +53,7 @@ a.active {
 }
 
 
+
 section {
   display: flex;
   justify-content: center;
@@ -78,11 +79,20 @@ h1 {
 }
 /* This is the intro section */
 #introText {
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 40px;
   padding-left: 150px;
   padding-right: 150px;
+  color: #757775;
 }
 
-#introText p {
+#introText {
+
+
+}
+
+#instructions {
   font-size: 18px;
   font-family: 'Roboto', sans-serif;
   line-height: 40px;
@@ -107,8 +117,22 @@ h1 {
   grid-row: 3 / span 1;
 }
 
+#Col a {
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 26px;
+  color: #fa41de;
+}
+
+#Col a:hover {
+  text-decoration: underline;
+  color: #6fc59b;
+}
+
+
+
 #Col p {
-  font-size: 12px;
+  font-size: 14px;
   font-family: 'Roboto', sans-serif;
   line-height: 26px;
   color: #757775;
@@ -174,7 +198,7 @@ h1 {
 }
 
 #healthcaretext p {
-  font-size: 12px;
+  font-size: 14px;
   font-family: 'Roboto', sans-serif;
   line-height: 26px;
   color: #757775;
@@ -182,15 +206,18 @@ h1 {
   grid-column: 1 / span 5;
   grid-row: 4/ span 3;
   padding-left: 150px;
-  /* float: left;
-  font-size: 12px;
+}
+
+#healthcaretext a {
+  font-size: 14px;
   font-family: 'Roboto', sans-serif;
   line-height: 26px;
-  color: #757775;
-  text-align: left;
-  padding-left: 150px;
-  padding-top: 20px; */
-  /* max-width: 35%; */
+  color: #fa41de;
+}
+
+#healthcaretext a:hover {
+  text-decoration: underline;
+  color: #6fc59b;
 }
 
 #top_x_div {
@@ -224,7 +251,7 @@ h1 {
 
 #crimetext p {
   /* float: right; */
-  font-size: 12px;
+  font-size: 14px;
   font-family: 'Roboto', sans-serif;
   line-height: 26px;
   color: #757775;
@@ -232,13 +259,18 @@ h1 {
   grid-column: 1 / span 5;
   grid-row: 4 / span 4;
   padding-left: 90px;
-  /* padding-top: 20px;
-  max-width: 35%; */
-  /* padding-right: 80px;
-  padding-top: 40px; */
-  /* max-width: 40%;
-  max-  height: 40%; */
-  /* padding-right: 75px; */
+}
+
+#crimetext a {
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 26px;
+  color: #fa41de;
+}
+
+#crimetext a:hover {
+  text-decoration: underline;
+  color: #6fc59b;
 }
 
 .crimepics {
@@ -365,7 +397,7 @@ h1 {
 
 #lifetext p {
   float: left;
-  font-size: 12px;
+  font-size: 14px;
   font-family: 'Roboto', sans-serif;
   line-height: 26px;
   color: #757775;
@@ -374,20 +406,23 @@ h1 {
   padding-top: 20px;
 }
 
+#lifetext a {
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 26px;
+  color: #fa41de;
+}
+
+#lifetext a:hover {
+  text-decoration: underline;
+  color: #6fc59b;
+}
+
 #lifechart {
   /* max-width: 55%;
   max-height: 40%; */
   float: right;
 }
-
-/* #countrypics img{
-  max-width: 10%;
-  max-height: 40%;
-  float: center;
-  padding-left: 10px;
-} */
-
-
 
 
 
@@ -400,7 +435,7 @@ padding-right: 100px;
 
 #countryheader h1 {
   text-align: left;
-  padding-left: 90px;
+    padding-left: 90px;
   padding-top: 40px;
   padding-bottom: 10px;
   margin: 0px;
@@ -408,6 +443,14 @@ padding-right: 100px;
 
 }
 
+#countryheader p {
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 26px;
+    padding-left: 90px;
+  color: #757775;
+  text-align: left;
+}
 /* .box {
   width: 40%;
   margin: 0 auto;

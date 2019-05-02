@@ -4,24 +4,24 @@
 	 viewBox="0 0 720 515.3" style="enable-background:new 0 0 720 515.3;" xml:space="preserve">
 <style type="text/css">
 	.st0{display:none;}
-	.st1{fill:none;}
-	.st2{fill:#A8A8A8;}
-	.st3{fill:#89CCA3;stroke:#0FB753;stroke-width:0.25;stroke-miterlimit:10;}
-	.st4{fill:#143C75;}
+	.st1{fill:#A8A8A8;}
+	.st2{fill:#89CCA3;stroke:#0FB753;stroke-width:0.25;stroke-miterlimit:10;}
+	.st3{fill:#143C75;}
+	.st4{fill:none;}
 	.st5{font-family:'Bulo-Black';}
 	.st6{font-size:14.5939px;}
-	.st7{font-size:36px;}
-	.st8{font-size:15px;}
-	.st9{fill:#E5367A;}
-	.st10{fill:#606060;}
-	.st11{font-family:'ArialMT';}
-	.st12{font-size:11px;}
-	.st13{fill:#3D3D3D;}
-	.st14{font-family:'Arial-BoldMT';}
-	.st15{fill:#FFFFFF;}
-	.st16{fill:#8D90C7;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
-	.st17{fill-rule:evenodd;clip-rule:evenodd;fill:#8D90C7;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
-	.st18{fill:#565556;}
+	.st7{font-size:15px;}
+	.st8{fill:#E5367A;}
+	.st9{fill:#606060;}
+	.st10{font-family:'ArialMT';}
+	.st11{font-size:11px;}
+	.st12{fill:#3D3D3D;}
+	.st13{font-family:'Arial-BoldMT';}
+	.st14{fill:#FFFFFF;}
+	.st15{fill:#8D90C7;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
+	.st16{fill-rule:evenodd;clip-rule:evenodd;fill:#8D90C7;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
+	.st17{fill:#565556;}
+	.st18{font-family:'Arial-ItalicMT';}
 	.st19{fill-rule:evenodd;clip-rule:evenodd;fill:#F8A25E;stroke:#FFFFFF;stroke-width:0.5;}
 	.st20{fill-rule:evenodd;clip-rule:evenodd;fill:#3A9DB4;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
 	.st21{fill:#3A9DB4;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
@@ -56,52 +56,51 @@
 		<image style="display:inline;overflow:visible;" width="1200" height="1018" id="Layer_0_1_" xlink:href="4F027279392F1850.png"  transform="matrix(0.4215 0 0 0.4215 -108.5329 30.4495)">
 	</image>
 </g>
-<text transform="matrix(1 0 0 1 399.7656 433.6366)" class="st4 st5 st6">Life Expectancy</text>
-<text transform="matrix(1 0 0 1 399.7656 297.4647)" class="st4 st5 st6">Cost of Living</text>
-<text transform="matrix(1 0 0 1 399.7656 342.287)" class="st4 st5 st6">Healthcare</text>
-<text transform="matrix(1 0 0 1 399.7656 388.0097)" class="st4 st5 st6">Crime</text>
-<rect x="397.3" y="138.5" class="st1" width="286.7" height="136"/>
-<text transform="matrix(1 0 0 1 397.3337 163.8929)" class="st4 st5 st7">C</text>
-<text transform="matrix(1 0 0 1 399.3335 21.334)" class="st4 st5 st8">Capital:</text>
-<text transform="matrix(1 0 0 1 448.3335 21.334)" class="st9 st5 st8"> </text>
-<text transform="matrix(1 0 0 1 451.2334 21.334)" class="st10 st11 st12">San Jose</text>
-<text transform="matrix(1 0 0 1 399.3335 39.334)" class="st4 st5 st8">Population:</text>
-<text transform="matrix(1 0 0 1 473.8335 39.334)" class="st9 st11 st12"> </text>
-<text transform="matrix(1 0 0 1 476.9336 39.334)" class="st10 st11 st12">4,987,142</text>
-<text transform="matrix(1 0 0 1 399.3335 57.3339)" class="st4 st5 st8">Language:</text>
-<text transform="matrix(1 0 0 1 465.1335 57.3339)" class="st13 st11 st12"> </text>
-<text transform="matrix(1 0 0 1 468.1335 57.3339)" class="st10 st11 st12">Spanish (official), English</text>
-<text transform="matrix(1 0 0 1 399.3335 75.8114)" class="st4 st5 st8">Climate:</text>
-<text transform="matrix(1 0 0 1 452.7334 88.5339)" class="st9 st14 st12"> </text>
-<text transform="matrix(1 0 0 1 455.8335 75.8114)" class="st10 st11 st12">tropical and subtropical; dry season</text>
-<text transform="matrix(1 0 0 1 399.3335 89.0113)" class="st10 st11 st12">(December to April); rainy season (May to November);</text>
-<text transform="matrix(1 0 0 1 399.3335 102.2113)" class="st10 st11 st12">cooler in highlands</text>
-<path class="st2" d="M635,309.7H399.3c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2H635c1.1,0,2,0.9,2,2l0,0
+<text transform="matrix(1 0 0 1 399.7656 433.6366)" class="st3 st5 st6">Life Expectancy</text>
+<text transform="matrix(1 0 0 1 399.7656 297.4647)" class="st3 st5 st6">Cost of Living</text>
+<text transform="matrix(1 0 0 1 399.7656 342.287)" class="st3 st5 st6">Healthcare</text>
+<text transform="matrix(1 0 0 1 399.7656 388.0097)" class="st3 st5 st6">Crime</text>
+<rect x="397.3" y="138.5" class="st4" width="286.7" height="136"/>
+<text transform="matrix(1 0 0 1 399.3335 21.334)" class="st3 st5 st7">Capital:</text>
+<text transform="matrix(1 0 0 1 448.3335 21.334)" class="st8 st5 st7"> </text>
+<text transform="matrix(1 0 0 1 451.2334 21.334)" class="st9 st10 st11">San Jose</text>
+<text transform="matrix(1 0 0 1 399.3335 39.334)" class="st3 st5 st7">Population:</text>
+<text transform="matrix(1 0 0 1 473.8335 39.334)" class="st8 st10 st11"> </text>
+<text transform="matrix(1 0 0 1 476.9336 39.334)" class="st9 st10 st11">4,987,142</text>
+<text transform="matrix(1 0 0 1 399.3335 57.3339)" class="st3 st5 st7">Language:</text>
+<text transform="matrix(1 0 0 1 465.1335 57.3339)" class="st12 st10 st11"> </text>
+<text transform="matrix(1 0 0 1 468.1335 57.3339)" class="st9 st10 st11">Spanish (official), English</text>
+<text transform="matrix(1 0 0 1 399.3335 75.8114)" class="st3 st5 st7">Climate:</text>
+<text transform="matrix(1 0 0 1 452.7334 88.5339)" class="st8 st13 st11"> </text>
+<text transform="matrix(1 0 0 1 455.8335 75.8114)" class="st9 st10 st11">tropical and subtropical; dry season</text>
+<text transform="matrix(1 0 0 1 399.3335 89.0113)" class="st9 st10 st11">(December to April); rainy season (May to November);</text>
+<text transform="matrix(1 0 0 1 399.3335 102.2113)" class="st9 st10 st11">cooler in highlands</text>
+<path class="st1" d="M635,309.7H399.3c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2H635c1.1,0,2,0.9,2,2l0,0
 	C636.9,308.8,636,309.7,635,309.7z"/>
-<path class="st3" d="M470.6,312.5h-69.3c-2.2,0-3.9-1.8-3.9-3.9v-1.8c0-2.2,1.8-3.9,3.9-3.9h69.3c2.2,0,3.9,1.8,3.9,3.9v1.8
-	C474.5,310.7,472.7,312.5,470.6,312.5z"/>
-<path class="st2" d="M635,354.9H399.3c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2H635c1.1,0,2,0.9,2,2l0,0C636.9,354,636,354.9,635,354.9
+<path class="st2" d="M476.8,312.7h-75.2c-2.4,0-4.2-1.9-4.2-4v-1.9c0-2.3,2-4,4.2-4h75.2c2.4,0,4.2,1.9,4.2,4v1.9
+	C481,310.8,479.1,312.7,476.8,312.7z"/>
+<path class="st1" d="M635,354.9H399.3c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2H635c1.1,0,2,0.9,2,2l0,0C636.9,354,636,354.9,635,354.9
 	z"/>
-<path class="st3" d="M513.2,358H401.3c-2.2,0-3.9-1.8-3.9-3.9V352c0-2.2,1.8-3.9,3.9-3.9h111.9c2.2,0,3.9,1.8,3.9,3.9v2.1
-	C517.1,356.2,515.4,358,513.2,358z"/>
-<path class="st2" d="M635,400.2H399.3c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2H635c1.1,0,2,0.9,2,2l0,0
+<path class="st2" d="M542.7,358H402.3c-2.8,0-4.9-1.8-4.9-3.9V352c0-2.2,2.3-3.9,4.9-3.9h140.4c2.8,0,4.9,1.8,4.9,3.9v2.1
+	C547.6,356.2,545.5,358,542.7,358z"/>
+<path class="st1" d="M635,400.2H399.3c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2H635c1.1,0,2,0.9,2,2l0,0
 	C636.9,399.3,636,400.2,635,400.2z"/>
-<path class="st3" d="M541.4,403.1H401.3c-2.2,0-3.9-1.8-3.9-3.9v-1.8c0-2.2,1.8-3.9,3.9-3.9h140.1c2.2,0,3.9,1.8,3.9,3.9v1.8
-	C545.3,401.3,543.6,403.1,541.4,403.1z"/>
-<path class="st2" d="M635,446.1H399.3c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2H635c1.1,0,2,0.9,2,2l0,0
+<path class="st2" d="M528.2,403.1H400.9c-2,0-3.5-1.8-3.5-3.9v-1.8c0-2.2,1.6-3.9,3.5-3.9h127.3c2,0,3.5,1.8,3.5,3.9v1.8
+	C531.8,401.3,530.2,403.1,528.2,403.1z"/>
+<path class="st1" d="M635,446.1H399.3c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2H635c1.1,0,2,0.9,2,2l0,0
 	C636.9,445.2,636,446.1,635,446.1z"/>
-<path class="st3" d="M596.5,449.1H401.3c-2.2,0-3.9-1.8-3.9-3.9v-1.8c0-2.2,1.8-3.9,3.9-3.9h195.2c2.2,0,3.9,1.8,3.9,3.9v1.8
+<path class="st2" d="M596.5,449.1H401.3c-2.2,0-3.9-1.8-3.9-3.9v-1.8c0-2.2,1.8-3.9,3.9-3.9h195.2c2.2,0,3.9,1.8,3.9,3.9v1.8
 	C600.4,447.4,598.6,449.1,596.5,449.1z"/>
-<polygon class="st4" points="653.4,296.7 653.4,303.2 644.2,308 653.4,312.2 653.4,318.6 675.3,318.6 675.3,296.7 "/>
-<polygon class="st4" points="653.4,341.9 653.4,348.4 644.2,353.2 653.4,357.3 653.4,363.8 675.3,363.8 675.3,341.9 "/>
-<polygon class="st4" points="653.4,387.3 653.4,393.7 644.2,398.5 653.4,402.7 653.4,409.2 675.3,409.2 675.3,387.3 "/>
-<polygon class="st4" points="653.4,433.2 653.4,439.7 644.2,444.4 653.4,448.6 653.4,455.1 675.3,455.1 675.3,433.2 "/>
-<text transform="matrix(1 0 0 1 657.7637 311.5071)" class="st15 st14 st12">30</text>
-<text transform="matrix(1 0 0 1 658.7642 356.9701)" class="st15 st14 st12">45</text>
-<text transform="matrix(1 0 0 1 657.7637 402.0516)" class="st15 st14 st12">56</text>
-<text transform="matrix(1 0 0 1 657.7639 448.093)" class="st15 st14 st12">83</text>
-<rect x="399.8" y="156" class="st1" width="273.9" height="188.8"/>
-<text transform="matrix(1 0 0 1 399.7695 163.9184)"><tspan x="0" y="0" class="st18 st11 st12">       osta Rica is a country in Central America, bordered </tspan><tspan x="0" y="13.2" class="st18 st11 st12">by Nicaragua to the north, the Caribbean Sea to the </tspan><tspan x="0" y="26.4" class="st18 st11 st12">northeast, Panama to the southeast, the Pacific Ocean </tspan><tspan x="0" y="39.6" class="st18 st11 st12">to the southwest, and Ecuador to the south of Cocos </tspan><tspan x="0" y="52.8" class="st18 st11 st12">Island. It has a population of around 5 million[4] in a </tspan><tspan x="0" y="66" class="st18 st11 st12">land area of 51,060 square kilometers (19,714 square </tspan><tspan x="0" y="79.2" class="st18 st11 st12">miles). An estimated 333,980 people live in the capital </tspan><tspan x="0" y="92.4" class="st18 st11 st12">and largest city, San José with around 2 million people </tspan><tspan x="0" y="105.6" class="st18 st11 st12">in the surrounding metropolitan area.</tspan></text>
+<polygon class="st3" points="653.4,296.7 653.4,303.2 644.2,308 653.4,312.2 653.4,318.6 675.3,318.6 675.3,296.7 "/>
+<polygon class="st3" points="653.4,341.9 653.4,348.4 644.2,353.2 653.4,357.3 653.4,363.8 675.3,363.8 675.3,341.9 "/>
+<polygon class="st3" points="653.4,387.3 653.4,393.7 644.2,398.5 653.4,402.7 653.4,409.2 675.3,409.2 675.3,387.3 "/>
+<polygon class="st3" points="653.4,433.2 653.4,439.7 644.2,444.4 653.4,448.6 653.4,455.1 675.3,455.1 675.3,433.2 "/>
+<text transform="matrix(1 0 0 1 657.7637 311.5071)" class="st14 st13 st11">34</text>
+<text transform="matrix(1 0 0 1 658.7642 356.9701)" class="st14 st13 st11">62</text>
+<text transform="matrix(1 0 0 1 657.7637 402.0516)" class="st14 st13 st11">56</text>
+<text transform="matrix(1 0 0 1 657.7639 448.093)" class="st14 st13 st11">83</text>
+<rect x="399.8" y="131.4" class="st4" width="273.9" height="188.8"/>
+<text transform="matrix(1 0 0 1 399.7695 139.318)"><tspan x="0" y="0" class="st17 st10 st11">“Costa Rica is a country in Central America, bordered </tspan><tspan x="0" y="13.2" class="st17 st10 st11">by Nicaragua to the north, the Caribbean Sea to the </tspan><tspan x="0" y="26.4" class="st17 st10 st11">northeast, Panama to the southeast, the Pacific Ocean </tspan><tspan x="0" y="39.6" class="st17 st10 st11">to the southwest, and Ecuador to the south of Cocos </tspan><tspan x="0" y="52.8" class="st17 st10 st11">Island. It has a population of around 5 million[4] in a </tspan><tspan x="0" y="66" class="st17 st10 st11">land area of 51,060 square kilometers (19,714 square </tspan><tspan x="0" y="79.2" class="st17 st10 st11">miles). An estimated 333,980 people live in the capital </tspan><tspan x="0" y="92.4" class="st17 st10 st11">and largest city, San José with around 2 million people </tspan><tspan x="0" y="105.6" class="st17 st10 st11">in the surrounding metropolitan area.”  </tspan><tspan x="0" y="118.8" class="st17 st18 st11">Source: Wikipedia</tspan></text>
 <g id="Costa_Rica">
 	<polygon id="San_Jose" class="st20" points="224.4,173.6 225.9,178.7 226.1,179.2 226.5,179.7 227.5,180.5 228.4,181.1 
 		228.8,181.4 229.1,181.6 231.2,184 231.6,184.6 231.9,185.6 232.1,188.4 232.6,190.8 232.4,191.7 232,192.1 231.6,192.5 231,192.7 
@@ -332,27 +331,25 @@
 <line class="st42" x1="41" y1="456.7" x2="138" y2="456.7"/>
 <line class="st43" x1="41.4" y1="449.4" x2="41.4" y2="453.6"/>
 <line class="st43" x1="61.6" y1="449.4" x2="61.6" y2="453.1"/>
-<line class="st43" x1="81.4" y1="449.4" x2="81.4" y2="453.1"/>
 <line class="st43" x1="101.4" y1="449.4" x2="101.4" y2="453.1"/>
-<line class="st43" x1="121.5" y1="449.4" x2="121.5" y2="453.1"/>
 <line class="st43" x1="141.1" y1="449.4" x2="141.1" y2="453.6"/>
-<rect x="39.3" y="442.1" class="st1" width="133.8" height="8.3"/>
-<text transform="matrix(1 0 0 1 39.3411 447.7795)" class="st11 st44">0      20     40     60     80    100 km</text>
-<rect x="39.3" y="461.6" class="st1" width="121" height="8.5"/>
-<text transform="matrix(1 0 0 1 39.3411 467.3181)" class="st11 st44">0            20         40           60 mi</text>
+<rect x="39.3" y="442.1" class="st4" width="133.8" height="8.3"/>
+<text transform="matrix(1 0 0 1 39.3411 447.7795)" class="st10 st44">0      20              60            100 km</text>
+<rect x="39.3" y="461.6" class="st4" width="121" height="8.5"/>
+<text transform="matrix(1 0 0 1 39.3411 467.3181)" class="st10 st44">0            20         40           60 mi</text>
 <line class="st43" x1="41.2" y1="456.3" x2="41.2" y2="460.5"/>
 <line class="st43" x1="73.8" y1="456.3" x2="73.8" y2="460"/>
 <line class="st43" x1="105.8" y1="456.3" x2="105.8" y2="460"/>
 <line class="st43" x1="137.7" y1="456.3" x2="137.7" y2="460.5"/>
-<rect x="172.1" y="183" class="st1" width="48.9" height="8.7"/>
-<text transform="matrix(1 0 0 1 172.0795 189.4041)" class="st45 st11 st46">San Jose</text>
-<rect x="316" y="178.6" class="st1" width="48.9" height="8.7"/>
-<text transform="matrix(1 0 0 1 315.9965 185.0585)" class="st45 st11 st46">Limon</text>
-<rect x="13.6" y="207.4" class="st1" width="59.1" height="8.7"/>
-<text transform="matrix(1 0 0 1 13.6245 213.8443)" class="st45 st11 st46">San Francisco</text>
+<rect x="172.1" y="183" class="st4" width="48.9" height="8.7"/>
+<text transform="matrix(1 0 0 1 172.0795 189.4041)" class="st45 st10 st46">San Jose</text>
+<rect x="316" y="178.6" class="st4" width="48.9" height="8.7"/>
+<text transform="matrix(1 0 0 1 315.9965 185.0585)" class="st45 st10 st46">Limon</text>
+<rect x="13.6" y="207.4" class="st4" width="59.1" height="8.7"/>
+<text transform="matrix(1 0 0 1 13.6245 213.8443)" class="st45 st10 st46">San Francisco</text>
 <g>
 	<circle cx="208.5" cy="195.3" r="4"/>
-	<polygon class="st15" points="208.5,191.2 209.3,193.9 212.3,193.9 209.8,195.5 210.8,198.3 208.5,196.4 206.2,198.3 207.2,195.5 
+	<polygon class="st14" points="208.5,191.2 209.3,193.9 212.3,193.9 209.8,195.5 210.8,198.3 208.5,196.4 206.2,198.3 207.2,195.5 
 		204.8,193.9 207.5,194 	"/>
 </g>
 <circle cx="81" cy="210" r="4"/>
