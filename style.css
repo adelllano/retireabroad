@@ -282,6 +282,11 @@ h1 {
 
 }
 
+/* .crimepics {
+  width: 90%;
+  height: 90%;
+} */
+
 
 /* .crimepics {
     max-width: 400px;
@@ -449,7 +454,7 @@ padding-right: 100px;
   line-height: 26px;
     padding-left: 90px;
   color: #757775;
-  text-align: left;
+  text-align: center;
 }
 /* .box {
   width: 40%;
