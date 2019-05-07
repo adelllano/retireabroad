@@ -355,36 +355,6 @@ h1 {
   grid-row: 4 / span auto;
 }
 
-/* .crimepics img{
-  max-width: 100px;
-  max-height: 40%;
-  float: center;
-  padding-left: 10px;
-}
-
-#crpics1 {
-  width: 50%;
-  margin: 0px;
-  grid-column: 4 / span 4;
-  grid-row: 2 / span auto;
-}
-
-#crpics2 {
-  width: 50%;
-  margin: 0px;
-}
-
-#crpics3 {
-  width: 50%;
-  margin: 0px;
-} */
-/* span.line-2 img{
-  max-width: 10%;
-  max-height: 40%;
-  float: right;
-  padding-left: 10px;
-} */
-
 
 /* This is the Life Expectancy section */
 #lifetext {
@@ -456,16 +426,7 @@ padding-right: 100px;
   color: #757775;
   text-align: center;
 }
-/* .box {
-  width: 40%;
-  margin: 0 auto;
-  background: rgba(255,255,255,0.2);
-  padding: 35px;
-  border: 2px solid #fff;
-  border-radius: 20px/50px;
-  background-clip: padding-box;
-  text-align: center;
-} */
+
 
 
 .box img{
@@ -538,6 +499,33 @@ padding-right: 100px;
   width: 100%;
   height: 90%;
 } */
+.about-nav {
+  float:left;
+  padding-left: 50px;
+}
+.about {
+  padding-top: 75px;
+}
+
+.about p {
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 26px;
+  color: #757775;
+  text-align: center;
+}
+
+
+.about a {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: #fa41de;
+}
+
+.about a:hover {
+  text-decoration: underline;
+  color: #6fc59b;
+}
 
 .full-screen {
   height: 100%; /* makes panels the entire window height */
@@ -565,23 +553,7 @@ padding-right: 100px;
     width: 70%;
   }
 }
-/* .myDiv {
-  width: 100%;
-} */
 
-/* h1 {
-  font-family: 'Raleway', sans-serif;
-  font-size: 35px;
-  color: #434343;
-  text-align: left;
-  margin: 0;
-  padding-top: 50px;
-  padding-left: 90px;
-} */
-
-/* button {
-float: left;
-} */
 @supports(display: grid) {
         .message {
           display: none;
