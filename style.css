@@ -512,9 +512,15 @@ padding-right: 100px;
   font-family: 'Roboto', sans-serif;
   line-height: 26px;
   color: #757775;
-  text-align: center;
+  text-align: justify;
+  width: 500px;
 }
 
+#numbeo {
+  color: #fa41de;
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+}
 
 .about a {
   font-family: 'Roboto', sans-serif;
